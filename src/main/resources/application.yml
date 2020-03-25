@@ -1,0 +1,8 @@
+swagger2:
+  basePackage: com.jingtoo.demo.inteTest
+  title: swagger測試
+  license: GPL 3.0
+  licenseUrl: https://songguo7.com/
+  termsOfServiceUrl: https://songguo7.com/dist/html/join-us.html
+  description: swagger测试api
+  contact: 123
